@@ -1,0 +1,19 @@
+ech{
+  "name": "happy",
+  "version": "1.0.0",
+  "description": "app.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioLujano/cursosIng.git"
+  },
+  "author": "Antonio Lujano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonioLujano/cursosIng/issues"
+  },
+  "homepage": "https://github.com/AntonioLujano/cursosIng#readme"
+}
